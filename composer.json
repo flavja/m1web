@@ -1,0 +1,15 @@
+{
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "name": "flavien/m1web",
+    "authors": [
+        {
+            "name": "Flavien",
+            "email": "flavien37500@gmail.com"
+        }
+    ],
+    "require": {}
+}
