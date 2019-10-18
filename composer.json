@@ -11,5 +11,8 @@
             "email": "flavien37500@gmail.com"
         }
     ],
-    "require": {}
+    "require": {
+      "ext-json": "*",
+      "ext-pdo": "*"
+    }
 }
